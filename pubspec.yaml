@@ -1,4 +1,4 @@
-name: flutter_firebase_auth
+name: flutter_firebase_app
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -38,6 +38,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core: ^2.7.0
   firebase_auth: ^4.2.9
+  cloud_firestore: ^4.4.3
+  provider: ^6.0.5
+  logger: ^1.2.2
 
 dev_dependencies:
   flutter_test:
